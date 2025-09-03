@@ -27,13 +27,28 @@ The dataset (from Kaggle’s Rossmann challenge) includes:
 ---
 
 ## Exploratory Data Analysis (EDA)
-Key insights:  
+**Key insights:**
+
  **Seasonality** – Sales show weekly/monthly cycles, with end-of-month and holiday spikes.  
  **Promotions** – Stores in promotion weeks have noticeably higher sales.  
- **Competition**– Closer competition generally reduces sales.  
+ **Competition**– Closer competition generally increases sales. This suggests that proximity to competitors may actually boost sales, likely because; 1.Customers prefer areas with multiple shopping options ("shopping clusters").
+         2. More foot traffic in competitive zones.
+         3.Stores closer to competition may invest more in promotions to attract/retain customers.
+
  **Customers** – Strong positive correlation with sales.  
 
-(Insert plots here: trends, histograms, boxplots, barplots, scatterplots.)  
+<img width="1165" height="573" alt="output_5_2" src="https://github.com/user-attachments/assets/cac326a4-d91c-4a43-9d36-d96442468f36" />
+
+<img width="1024" height="556" alt="output_8_0" src="https://github.com/user-attachments/assets/90698f47-928b-4851-9a0b-de5589b44273" />
+
+<img width="1024" height="556" alt="output_8_1" src="https://github.com/user-attachments/assets/980ba70e-181a-49ae-a984-76ddad309423" />
+
+<img width="1024" height="556" alt="output_10_0" src="https://github.com/user-attachments/assets/16122406-fd1e-4681-97e1-f2e2ee3e3c6b" />
+
+<img width="1024" height="556" alt="output_10_1" src="https://github.com/user-attachments/assets/b230fc80-2de3-4856-8af9-c0de034ebf47" />
+
+<img width="1033" height="556" alt="output_9_1" src="https://github.com/user-attachments/assets/d5986fae-536d-47e3-87cb-5c20643769ff" />
+
 
 ---
 
